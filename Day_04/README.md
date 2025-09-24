@@ -1,5 +1,5 @@
-# Day 2
-This project takes the bill total, tip percentage, and number of people to split the bill. It then calculates how much each person will have to pay.
+# Day 4
+This project is a rock, paper, scissors game. 
 
 ## 🚀 How to Run
 
@@ -14,7 +14,7 @@ This project takes the bill total, tip percentage, and number of people to split
    git clone https://github.com/tjsherman05/100-days-python.git
 
 3. Navigate to the project folder for this day:
-    cd 100-days-python/Day_02
+    cd 100-days-python/Day_04
 
 4. Run the Script:
     - On Windows:
